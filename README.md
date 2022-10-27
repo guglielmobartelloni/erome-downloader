@@ -1,5 +1,5 @@
 # erome-downloader
-A super simple and fast shell script to download videos from Erome
+A super simple and fast shell script to download videos or collections from Erome
 
 Dependencies:
 
