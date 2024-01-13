@@ -1,4 +1,4 @@
-#!/bin/sh
+https://www.erome.com/a/POdoFzVv
 
 yt-dlp --get-url "$1" | 
 uniq | 
